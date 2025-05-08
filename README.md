@@ -45,8 +45,8 @@ Il soutient des projets technologiques et communautaires avec un engagement fort
 
 ## التواصل – Contact
 
-- Email: mennecoin986@gmail.com  
-- Telegram: à venir  
-- Twitter: bientôt
+- Email: mennecoin89@gmail.com  
+- Telegram: t.me/mennecoin
+- Twitter:@mennecoin89 
 
 

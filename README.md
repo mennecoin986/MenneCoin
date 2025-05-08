@@ -15,7 +15,7 @@ Il soutient des projets technologiques et communautaires avec un engagement fort
 ## الخصائص التقنية – Caractéristiques techniques
 
 - **الاسم الكامل / Nom complet**: MenneCoin  
-- **الرمز / Symbole**: MEN  
+- **الرمز / Symbole**: MENN  
 - **عدد المنازل العشرية / Décimales**: 18  
 - **العدد الإجمالي / Offre totale**: 10,000,000 MEN
 

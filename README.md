@@ -49,6 +49,4 @@ Il soutient des projets technologiques et communautaires avec un engagement fort
 - Telegram: à venir  
 - Twitter: bientôt
 
----
 
-هل تريد أن أرفع هذا الملف الآن إلى المستودع؟
